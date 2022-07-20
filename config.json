@@ -1,0 +1,6 @@
+{
+  "token": "OTMxMTU4MTAxOTU5Mjc0NTQ2.GKPyp1.RPB77DK4W2uZKTxr2q6Tgoc3IF71fbcLs8cIg0",
+  "prefix": "$",
+  "partnerId": "",
+  "mongo": "mongodb+srv://Database:BoyBotDatabase@database.jdlki.mongodb.net/Database?retryWrites=true&w=majority"
+}
